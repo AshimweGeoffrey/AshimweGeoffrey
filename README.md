@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Ashimwe Geoffrey 👋</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/ashimwe-geoffrey/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/AshmweGeoffrey"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/AshimweGeoffrey"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://x.com/GeoffreyAshimwe"><img src="https://img.shields.io/badge/-black?style=flat-square&logo=x&logoColor=Black" alt="X"></a>
   <a href="mailto:ashimwegeoffrey@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshmweGeoffrey&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=AshimweGeoffrey&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
 <p align="center">🚀 Full-Stack Software Engineer | DevOps Enthusiast</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AshmweGeoffrey&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=AshimweGeoffrey&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
   </a>
 </p>
 
@@ -36,15 +36,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshmweGeoffrey&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshimweGeoffrey&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshmweGeoffrey&theme=radical&include_all_commits=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshimweGeoffrey&theme=radical&include_all_commits=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmweGeoffrey&layout=compact&theme=radical&count_private=true&include_all_commits=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshimweGeoffrey&layout=compact&theme=radical&count_private=true&include_all_commits=true" alt="Top Languages" />
 </p>
 
 <p align="center">
