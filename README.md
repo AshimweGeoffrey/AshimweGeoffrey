@@ -1,6 +1,10 @@
 <h1 align="center">Ashimwe Geoffrey</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTI3b25qdnR6cDFpdXdndnV6bWprZG0zM3J1YTZscjIwa2gxYm50YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u9fd42QpcKOx9xsTsv/giphy.gif" alt="Cactus" width="100"/>
+</p>
+
+<p align="center">
   <strong>Machine Learning Engineer | Full-Stack Developer</strong>
 </p>
 
