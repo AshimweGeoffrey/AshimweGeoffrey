@@ -5,16 +5,18 @@
 </p>
 
 <p align="center">
-  <strong>Machine Learning Engineer | Full-Stack Developer</strong>
+  <strong>Software Engineer | Aspiring Machine Learning Engineer</strong>
 </p>
-<p align="center">
-  <img src="https://camo.githubusercontent.com/b99b07418bb299506fd1aab59b930f12d9b411259893b5582ffa132b1f413408/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4173686d776547656f6666726579267374796c653d666c61742d73717561726526636f6c6f723d626c7565" alt="Profile Views">
-</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ashimwe-geoffrey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/AshimweGeoffrey"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://x.com/GeoffreyAshimwe"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="mailto:ashimwegeoffrey@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/b99b07418bb299506fd1aab59b930f12d9b411259893b5582ffa132b1f413408/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4173686d776547656f6666726579267374796c653d666c61742d73717561726526636f6c6f723d626c7565" alt="Profile Views">
 </p>
 
 
@@ -23,9 +25,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a Machine Learning Engineer and Full-Stack Developer passionate about building intelligent systems that solve real-world problems. My expertise spans from training deep learning models to deploying complete AI-powered applications with modern web interfaces.
+I'm a Software Engineer with strong full-stack development skills, currently expanding into Machine Learning and AI. I build scalable web applications and APIs while learning to integrate intelligent systems and ML models into production environments.
 
-Currently focused on computer vision, natural language processing, and creating end-to-end ML solutions that users can interact with.
+My focus is on bridging the gap between traditional software engineering and AI—creating end-to-end applications that leverage machine learning.
 
 📍 Based in Kigali, Rwanda
 
