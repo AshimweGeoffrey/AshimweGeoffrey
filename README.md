@@ -7,7 +7,9 @@
 <p align="center">
   <strong>Machine Learning Engineer | Full-Stack Developer</strong>
 </p>
-
+<p align="center">
+  <img src="https://camo.githubusercontent.com/b99b07418bb299506fd1aab59b930f12d9b411259893b5582ffa132b1f413408/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4173686d776547656f6666726579267374796c653d666c61742d73717561726526636f6c6f723d626c7565" alt="Profile Views">
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ashimwe-geoffrey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/AshimweGeoffrey"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
