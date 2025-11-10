@@ -1,53 +1,113 @@
-<h1 align="center">Hi, I'm Ashimwe Geoffrey 👋</h1>
+<h1 align="center">Ashimwe Geoffrey</h1>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashimwe-geoffrey/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <strong>Machine Learning Engineer | Full-Stack Developer</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashimwe-geoffrey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/AshimweGeoffrey"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://x.com/GeoffreyAshimwe"><img src="https://img.shields.io/badge/-black?style=flat-square&logo=x&logoColor=Black" alt="X"></a>
+  <a href="https://x.com/GeoffreyAshimwe"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="mailto:ashimwegeoffrey@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Machine Learning Engineer and Full-Stack Developer passionate about building intelligent systems that solve real-world problems. My expertise spans from training deep learning models to deploying complete AI-powered applications with modern web interfaces.
+
+Currently focused on computer vision, natural language processing, and creating end-to-end ML solutions that users can interact with.
+
+📍 Based in Kigali, Rwanda
+
+---
+
+## 🔧 Technical Stack
+
+### Machine Learning & AI
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+### Full-Stack Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Data & DevOps
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+## 🚀 What I'm Working On
+
+- 🤖 Training deep learning models for computer vision and NLP applications
+- 🎨 Building full-stack ML-powered web applications with React frontends
+- ⚙️ Developing end-to-end AI systems from model training to production deployment
+- 📊 Creating interactive interfaces that make ML models accessible to users
+- 🔬 Experimenting with transformer architectures and large language models
+
+---
+
+## 💡 Core Competencies
+
+**Machine Learning**
+- Computer Vision (CNNs, Object Detection, Image Classification)
+- Natural Language Processing (Transformers, Text Classification, Sentiment Analysis)
+- Model Training, Optimization & Evaluation
+- Feature Engineering & Data Preprocessing
+
+**Full-Stack Development**
+- Building interactive ML demos with React
+- RESTful API development with FastAPI/Flask
+- Database design and optimization
+- Containerization and deployment
+
+**MLOps**
+- Model deployment pipelines
+- API development for model serving
+- Docker containerization
+- CI/CD for ML systems
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshmweGeoffrey&style=flat-square&color=blue" alt="Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshimweGeoffrey&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshimweGeoffrey&layout=compact&theme=radical&count_private=true" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">🚀 Full-Stack Software Engineer | DevOps Enthusiast</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AshimweGeoffrey&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
-  </a>
-</p>
 
-## 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-</p>
+## 🎯 Currently Learning
+
+- Fine-tuning large language models for specific tasks
+- Advanced neural network architectures
+- Production ML system design and scalability
+- Real-time model serving and optimization
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on ML engineering projects, AI research, and building innovative applications. Whether you're working on something interesting or just want to discuss AI/ML, feel free to reach out!
+
+**Open to:** ML Engineering roles, Full-Stack AI projects, Research collaborations
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshimweGeoffrey&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <i>Building the future, one model at a time.</i>
 </p>
-
-<!--<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshimweGeoffrey&theme=radical&include_all_commits=true" alt="GitHub Streak" />
-</p>
--->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshimweGeoffrey&layout=compact&theme=radical&count_private=true&include_all_commits=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p>
-
